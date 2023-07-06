@@ -1,0 +1,13 @@
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\bin\Debug\OgrenciNotKayitSistemi.exe.config
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\bin\Debug\OgrenciNotKayitSistemi.exe
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\bin\Debug\OgrenciNotKayitSistemi.pdb
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.FormGiris.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.OgrenciDetay.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.Properties.Resources.resources
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.csproj.GenerateResource.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.exe
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.pdb
+C:\Users\alika\OneDrive\Masaüstü\Yazılım\C#\Projeler Klasörü\OgrenciNotKayitSistemi\OgrenciNotKayitSistemi\obj\Debug\OgrenciNotKayitSistemi.OgretmenDetay.resources
